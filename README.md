@@ -5,3 +5,5 @@ repository number uno
 >I need coffee!!!! NOW!
 
 #whatwhat
+
+grep CAGACTG MCAD.fa
