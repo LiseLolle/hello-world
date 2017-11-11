@@ -8,3 +8,7 @@ repository number uno
 
 grep CAGACTG MCAD.fa
 New code new code red alert
+# get code from R
+ls -R
+touch pokemon
+ls
